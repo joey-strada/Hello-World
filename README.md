@@ -12,9 +12,8 @@ This repository was created for BAIS:3050 BAIS Professional Preparation at the U
 - Python
 
 # Files Used
--`jastrada_hw1.py` — Python homework assignment 1.
--`jastrada_hw2.py` — Python homework assignment 2.
-
+- `jastrada_hw1.py` — Python homework assignment 1.
+- `jastrada_hw2.py` — Python homework assignment 2.
 # How to Run Program
 
 Download either Python file and run it using Python 3.
